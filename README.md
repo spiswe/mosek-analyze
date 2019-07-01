@@ -1,1 +1,3 @@
 # mosek-analyze
+
+analyze optimizer 
